@@ -1,0 +1,19 @@
+@media (max-width: 768px) {
+  .personal-image,
+  #personal-image {
+    display: none;
+  }
+  .project-detail {
+    font-size: 13px;
+  }
+  .company,
+  .post {
+    text-align: left;
+  }
+  .name {
+    width: 100%;
+  }
+  .hover:hover .view-more {
+    display: block;
+  }
+}
